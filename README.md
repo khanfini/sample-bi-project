@@ -8,7 +8,6 @@ Company Experience: Dairy Industry – Enterprise-Level BI Systems
 📁 Overview
 This repository contains a representative sample of business dashboards developed for internal use in a large dairy company. Due to confidentiality, actual production files are not shared. Instead, selected screenshots and simulated files are provided to demonstrate capabilities in design, modeling, and insight generation.
 
-A demo video of dashboard navigation is also available (see below).
 
 🎯 Key Dashboards Delivered in Production
 🔹 Sales Analytics
