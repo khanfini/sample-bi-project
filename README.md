@@ -25,10 +25,11 @@ Store chain & retail-line specialized dashboards
 
 Geo-distribution and KPI map dashboards
 
+Requests vs current targets
+
 🔹 Inventory & Supply Chain
 Warehouse status & current inventory
 
-Requests vs current targets
 
 🔹 Customer Analytics
 RFM segmentation dashboards
