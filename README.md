@@ -51,9 +51,11 @@ Receivables and DSO monitoring
 Check analysis & outstanding payments
 
 🖼️ Screenshots
+
 📸 You can find sample screenshots of the dashboards in the /screenshots folder.
 
 🛠️ Technologies Used
+
 Power BI Desktop – interactive dashboards, advanced DAX
 
 SQL Server – data modeling and querying
