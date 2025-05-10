@@ -10,7 +10,9 @@ This repository contains a representative sample of business dashboards develope
 
 
 🎯 Key Dashboards Delivered in Production
+
 🔹 Sales Analytics
+
 Weighted / Quantity / Revenue dashboards
 
 Deep dive to customer/product-level analysis
